@@ -1,0 +1,14 @@
+(tempo 96)
+
+piano:
+	# 4/4	
+	
+	V1:
+	o5 [d8 c < b a] > [g e f+ e] | [d2. < b8] [g g a b] | 
+
+	>c2/<g/e [r8 f g a] | b2./e > [c16 < b] a2 |
+
+	V2:
+	o3 [g8 b > d < b] [e b f b] | [g b > d < b] [f+ b e b] |
+
+	[c g > d < g] [d a > e < a] | [<g> d g d] [<d a > d f+] 
